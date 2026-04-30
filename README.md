@@ -1,2 +1,8 @@
-# Market-Basket-Analysis
-Market Basket Analysis: Use the Apriori algorithm to identify items frequently bought together. Create a network graph or heat map to show association rules (e.g., "People who buy X also buy Y").
+Market Basket Intelligence
+ ### Uncovering what customers buy together using the Apriori algorithm.
+ ## Dataset
+ Online Retail II (UCI) via Kaggle — 1M+ UK transactions 2009–2011
+ ## Tools
+ Python | pandas | numpy | Jupyter | Tableau Public
+ ## Results
+ 538 association rules found | Max lift: 53.95 | Avg confidence: 39.1%
